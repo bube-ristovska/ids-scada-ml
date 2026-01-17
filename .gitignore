@@ -1,0 +1,10 @@
+/data/scadadataset.csv
+# Ignore dataset
+data/scadadataset.csv
+
+# Ignore PyCharm project files
+.idea/
+*.iml
+
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
